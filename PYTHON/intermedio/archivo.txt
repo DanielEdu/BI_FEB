@@ -1,0 +1,16 @@
+Hola, mundo!
+Estoy escribiendo en un archivo de texto.
+1 Esta línea será agregada al final del archivo.
+2 Esta línea será agregada al final del archivo.
+3 Esta línea será agregada al final del archivo.
+4 Esta línea será agregada al final del archivo.
+5 Esta línea será agregada al final del archivo.
+6 Esta línea será agregada al final del archivo.
+7 Esta línea será agregada al final del archivo.
+8 Esta línea será agregada al final del archivo.
+9 Esta línea será agregada al final del archivo.
+10 Esta línea será agregada al final del archivo.
+11 Esta línea será agregada al final del archivo.
+12 Esta línea será agregada al final del archivo.
+13 Esta línea será agregada al final del archivo.
+14 Esta línea será agregada al final del archivo.
